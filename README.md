@@ -10,7 +10,9 @@ Day 5:
 	-Cardio & Abs
 Repeat
 
-
+<br/>
+<br/>
+<br/>
 
 Triceps:
 	Warm-Up (2 minutes):
@@ -46,7 +48,12 @@ Triceps:
 		Shoulder and neck stretch: 1 minute
 		Arm circles in reverse: 1 minute
 
-*********************************************************************************************************************
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 Back:
 	Warm-Up (5 minutes):
@@ -82,7 +89,13 @@ Back:
 		Standing Forward Bend: 1 minute
 		Doorway Stretch (for chest and shoulders): 1 minute
 		Neck and shoulder stretches: 1 minute
-********************************************************************************************************************
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 Abs:
 -------------------------------------------------------------------------------------------------------------------
 	Warm-Up (5 minutes):
