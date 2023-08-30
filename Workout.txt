@@ -1,17 +1,15 @@
 Day 1:
-	-Chest
+	-Chest & Biceps
 Day 2: 
-	-Arms
+	-Back & Triceps
 Day 3: 	
-	-Shoulders	Added
-Day 4: 
-	-Back 	Added
-Day 5:
 	-Legs
-Day 6:
-	-Abs	Added
-Day 7:
-	-Cardio  Added
+Day 4: 
+	-Shoulders
+Day 5:
+	-Cardio
+
+
 ********************************************************************************************************************************************
 Legs
 
