@@ -203,10 +203,10 @@ Abs:
 3. Bicycle crunches : 25 reps
 
 **Abs Workout (20 minutes):**
- 3 sets of 12-15 
+ 3 sets of 12-15 default
  15-sec Rest
 
-1. **Dumbbell Russian twists:** 
+1. **Dumbbell Russian twists:** 30 reps ×3
 
 2. **Dumbbell leg raises:** Lie on your back, hold a dumbbell between your feet, and lift your legs up and down while keeping them straight.
 
