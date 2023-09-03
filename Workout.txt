@@ -1,8 +1,8 @@
-Day 1:	-Chest & -Biceps & -Abs
-Day 2: 	-Back & -Triceps
-Day 3: 	-Legs & -Abs
-Day 4: 	-Shoulders
-Day 5:	-Cardio & -Abs
+Day 1: 	-Morning--Chest  & Night--Biceps & -Abs
+Day 2: 	-Morning--Back   & Night--Triceps
+Day 3: 	-Morning--Legs   & Night--Abs
+Day 4: 	-Morning--Shoulders
+Day 5:	 -Morning--Cardio & Night--Abs
 Day 6: 	-Stretches
 Day 7: 	-Stretches
 
