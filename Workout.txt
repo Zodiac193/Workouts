@@ -116,11 +116,11 @@ Abs:
 
 Legs
 
-	**Warm-Up (5 minutes):
-	- Jumping jacks: 1 minute
-	- Leg swings (front and back): 1 minute
-	- Hip circles: 1 minute
-	- Bodyweight squats: 2 minutes
+	**Warm-Up:
+	- Jumping jacks: 50 reps
+	- Leg swings {front:20 reps, Back 20 reps} 
+	- Hip circles: 20 reps
+	- Bodyweight squats: 30 reps
 
 	**Main Workout (20 minutes):
 
