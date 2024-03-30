@@ -1,10 +1,7 @@
-Day 1: 	-Morning--Chest  & Night: -Biceps-Abs
-Day 2: 	-Morning--Back   & Night: -Triceps
-Day 3: 	-Morning--Legs   & Night: -Abs
-Day 4: 	-Morning--Shoulders
-Day 5:	-Morning--Cardio & Night: -Abs
-Day 6: 	-Stretching
-Day 7: 	-Stretching
+Day 1:	-Chest-Tricpes-Abs
+Day 2: 	-Back-Biceps
+Day 3: 	-Legs-Abs
+
 
 4*12 
 *******************
@@ -31,35 +28,7 @@ Chest:
 		2- Arm stretches
 		3- Deep breathing
 
-
-****************************************
-Biceps:
-
-	**Warm-up (5 minutes):**
-	1. Arm circles: 50 reps
-	2. Jumping jacks (2 minutes): 50 reps
-	3. Push-ups: 20 reps
-
-	**Biceps Workout (20 minutes):**
-	3 sets of 25 reps
-	15 sec rest
-
-	1. **Dumbbell curls:** 
-
-	2. **Hammer curls:** palms facing each other.
-
-	3. **Concentration curls:** 
-
-	4. **Reverse curls:** palms facing down
-
-	**Cool-down (5 minutes):**
-	1. Stretch your biceps by reaching your arms behind your back and gently pulling on your fingers.
-	2. Stretch your shoulders and arms by reaching one arm across your chest and holding it with the opposite hand.
-	3. light jogging 
-
-
-*****************
-*****************
+***************************************
 Back:
 
 	1. Warm-up:
@@ -85,7 +54,6 @@ Back:
 	Remember to listen to your body and adjust the weights or intensities according to your fitness level. It's always important to maintain proper form throughout the exercises to prevent injuries.
 
 *****************
-
 Abs:
 
 	**Warm-up (5 minutes):**
@@ -110,10 +78,7 @@ Abs:
 	2. Stretch your sides by reaching one arm overhead and bending your body to the opposite side.
 	3. Finish with some deep breathing and gentle stretches to relax your muscles.
 
-	Ensure you use proper form and start with a weight that suits your fitness level. As you get stronger, you can increase the weight or repetitions to make the workout more challenging.
-
 *****************
-
 Legs
 
 	**Warm-Up:
@@ -141,77 +106,6 @@ Legs
 	- Hip flexor stretch:
 	- Deep breathing and relaxation:
 
-
-*****************
-Shoulders:
-	Warm-Up (5 minutes):
-	
-	1	Arm circles: 1 minute
-	2	Neck stretches: 1 minute
-	3	Shoulder stretches: 1 minute
-	4	Push-ups: 2 minutes (to engage the shoulder muscles)
-	--------------------------------------------------------------------------
-	Main Workout (20 minutes):
-		Perform each exercise for 45 seconds, followed by a 15-second rest. Complete 3 Rounds.
-	
-	1- Dumbbell Shoulder Press (using household items as weights):	
-		Sit or stand with a weight in each hand at shoulder height.
-		Press the weights overhead, extending your arms fully.
-		Lower the weights back to shoulder height.
-
-	2- Lateral Raises (using household items as weights):	
-		Stand with a weight in each hand by your sides.
-		Lift your arms out to the sides until they are parallel to the ground.
-		Lower the weights back to your sides.
-
-	3- Front Raises (using household items as weights):	
-		Stand with a weight in each hand in front of your thighs.
-		Lift your arms in front of you until they are parallel to the ground.
-		Lower the weights back to your thighs.
-
-	4- Reverse Flies (using household items as weights):	
-		Bend at the hips to a 45-degree angle while holding a weight in each hand.
-		Lift your arms out to the sides until they are parallel to the ground.
-		Lower the weights back to the starting position.
-
-	5- Push-Ups (Wide Grip):	
-		Get into a push-up position with your hands placed slightly wider than shoulder-width apart.
-		Lower your chest towards the ground, then push back up to the starting position.
-	--------------------------------------------------------------------------
-	Cool Down (5 minutes):	
-		1- Neck and shoulder stretch: 2 minutes
-		2- Arm stretches: 2 minutes
-		4- Standing forward bend: 1 minute
-
-*****************
-Cardio:
-	Warm-Up (5 minutes):
-		1- Jumping jacks: 1 minute
-		2- High knees: 1 minute
-		3- Butt kicks: 1 minute
-		4- Arm circles: 1 minute
-		5- Bodyweight squats: 1 minute
-	--------------------------------------------------------------------------
-	Main Workout (20 minutes):
-		Perform each exercise for 45 seconds, followed by a 15-second rest. Complete 2 Rounds.
-
-		1- Jumping Jacks:			
-	
-		2- High Knees:	
-				
-		3- Burpees:		
-				
-		4- Mountain Climbers:
-				
-		5- Jump Squats:
-			
-	--------------------------------------------------------------------------
-	Cool Down (5 minutes):
-		Standing forward bend: 1 minute
-		Quad stretch: 1 minute
-		Hip flexor stretch: 1 minute (each side)
-		Calf stretch: 1 minute (each side)
-		Deep breathing and stretching: 1 minute
 
 
 
