@@ -19,9 +19,7 @@ Chest:
 			
 		3- Diamond Push-Ups: 3*10	
 			
-		4- Decline Push-Ups: 3*15	
-			
-		5- Dumbbells Chest Squeeze: 3*10
+		4- Dumbbells Chest Squeeze: 3*10
 
 	Cool Down:
 		1- Chest and shoulder stretches
